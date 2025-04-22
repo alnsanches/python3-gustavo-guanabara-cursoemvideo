@@ -1,4 +1,4 @@
-# Este é o README do curso de Python 3 do Curso em Vídeo #
+# Python 3 do Curso em Vídeo #
 
 Curso de Python 3 lecionado pelo prof. Gustavo Guanabara no site Curso Em Vídeo.
 
