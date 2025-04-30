@@ -62,5 +62,56 @@ Curso de Python 3 lecionado pelo prof. Gustavo Guanabara no site Curso Em Vídeo
 
 
 
-### Mundo 2 
+### Mundo 2: estruturas de controle
+
+#### Condições em Python (if..elif)
+
+- Exercício Python #036 - [Aprovando empréstimo](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2001%20-%2012/desafio036.py)
+- Exercício Python #037 - [Conversor de bases numéricas](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2001%20-%2012/desafio037.py)
+- Exercício Python #038 - [Comparando números](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2001%20-%2012/desafio038.py)
+- Exercício Python #039 - [Alistamento militar](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2001%20-%2012/desafio039.py)
+- Exercício Python #040 - [Aquele clássico da média](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2001%20-%2012/desafio040.py)
+- Exercício Python #041 - [Classificando atletas](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2001%20-%2012/desafio041.py)
+- Exercício Python #042 - [Analisando triângulos v2.0](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2001%20-%2012/desafio042.py)
+- Exercício Python #043 - [Índice de Massa Corporal](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2001%20-%2012/desafio043.py)
+- Exercício Python #044 - [Gerenciador de pagamentos](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2001%20-%2012/desafio044.py)
+- Exercício Python #045 - [GAME: Pedra, Papel e Tesoura](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2001%20-%2012/desafio045.py)
+
+#### Repetições em Python (for)
+
+- Exercício Python #046 - [Contagem regressiva](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2002%20-%2013/desafio046.py)
+- Exercício Python #047 - [Contagem de pares](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2002%20-%2013/desafio047.py)
+- Exercício Python #048 - [Soma ímpares múltiplos de três](hhttps://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2002%20-%2013/desafio048.py)
+- Exercício Python #049 - [Tabuada v2.0](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2002%20-%2013/desafio049.py)
+- Exercício Python #050 - [Soma dos pares](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2002%20-%2013/desafio050.py)
+- Exercício Python #051 - [Progressão Aritmética](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2002%20-%2013/desafio051.py)
+- Exercício Python #052 - [Números primos](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2002%20-%2013/desafio052.py)
+- Exercício Python #053 - [Detector de palíndromo](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2002%20-%2013/desafio053.py)
+- Exercício Python #054 - [Grupo da maioridade](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2002%20-%2013/desafio054.py)
+- Exercício Python #055 - [Maior e menor da sequência](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2002%20-%2013/desafio055.py)
+- Exercício Python #056 - [Analisador completo](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2002%20-%2013/desafio056.py)
+
+#### Repetições em Python (while)
+
+- Exercício Python #057 - [Validação de dados](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2003%20-%2014/desafio057.py)
+- Exercício Python #058 - [Jogo da adivinhação v2.0](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2003%20-%2014/desafio058.py)
+- Exercício Python #059 - [Criando um menu de opções](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2003%20-%2014/desafio059.py)
+- Exercício Python #060 - [Cálculo do fatorial](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2003%20-%2014/desafio060.py)
+- Exercício Python #061 - [Progressão aritmética v2.0](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2003%20-%2014/desafio061.py)
+- Exercício Python #062 - [Super Progressão Aritmética v3.0](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2003%20-%2014/desafio062.py)
+- Exercício Python #063 - [Sequência de Fibonacci v1.0](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2003%20-%2014/desafio063.py)
+- Exercício Python #064 - [Tratando vários valores v1.0](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2003%20-%2014/desafio064.py)
+- Exercício Python #065 - [Maior e menor valores](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2003%20-%2014/desafio065.py)
+- Exercício Python #066 - [Vários números com flag](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2004%20-%2015/desafio066.py)
+- Exercício Python #067 - [Tabuada v3.0](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2004%20-%2015/desafio067.py)
+- Exercício Python #068 - [Jogo do par ou ímpar](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2004%20-%2015/desafio068.py)
+- Exercício Python #069 - [Análise de dados do grupo](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2004%20-%2015/desafio069.py)
+- Exercício Python #070 - [Estatística de produtos](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_2/aula_15/desafio_70.py)
+- Exercício Python #071- [Simulador de caixa eletrônico](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2004%20-%2015/desafio071.py)
+
+
+
+
+### Mundo 3
 [curso em andamento...]
+
