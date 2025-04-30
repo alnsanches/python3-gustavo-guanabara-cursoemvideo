@@ -81,7 +81,7 @@ Curso de Python 3 lecionado pelo prof. Gustavo Guanabara no site Curso Em Vídeo
 
 - Exercício Python #046 - [Contagem regressiva](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2002%20-%2013/desafio046.py)
 - Exercício Python #047 - [Contagem de pares](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2002%20-%2013/desafio047.py)
-- Exercício Python #048 - [Soma ímpares múltiplos de três](hhttps://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2002%20-%2013/desafio048.py)
+- Exercício Python #048 - [Soma ímpares múltiplos de três](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2002%20-%2013/desafio048.py)
 - Exercício Python #049 - [Tabuada v2.0](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2002%20-%2013/desafio049.py)
 - Exercício Python #050 - [Soma dos pares](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2002%20-%2013/desafio050.py)
 - Exercício Python #051 - [Progressão Aritmética](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2002%20-%2013/desafio051.py)
@@ -106,9 +106,8 @@ Curso de Python 3 lecionado pelo prof. Gustavo Guanabara no site Curso Em Vídeo
 - Exercício Python #067 - [Tabuada v3.0](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2004%20-%2015/desafio067.py)
 - Exercício Python #068 - [Jogo do par ou ímpar](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2004%20-%2015/desafio068.py)
 - Exercício Python #069 - [Análise de dados do grupo](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2004%20-%2015/desafio069.py)
-- Exercício Python #070 - [Estatística de produtos](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_2/aula_15/desafio_70.py)
+- Exercício Python #070 - [Estatística de produtos](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2004%20-%2015/desafio070.py)
 - Exercício Python #071- [Simulador de caixa eletrônico](https://github.com/alnsanches/python3-gustavo-guanabara-cursoemvideo/blob/main/Mundo%2002/Anota%C3%A7%C3%B5es%20das%20Aulas%20e%20Desafios/Aula%2004%20-%2015/desafio071.py)
-
 
 
 
